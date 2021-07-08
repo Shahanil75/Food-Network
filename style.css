@@ -45,3 +45,26 @@ background-repeat: no-repeat;
 .about-me{
     background-image:url(images/shapes/Frame\ 58.jpg)
 }
+.last-step{
+    text-align:center;
+}
+.solved-area{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+#solution{
+    width: 300px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 3%;
+    margin-top: 8%;
+    padding-right: 5px;
+}
+.last-item{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 3px;
+    border-radius: 20px;
+    box-shadow: 10px 20px 40px rgb(233, 82, 27);
+}
