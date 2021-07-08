@@ -68,3 +68,14 @@ background-repeat: no-repeat;
     border-radius: 20px;
     box-shadow: 10px 20px 40px rgb(233, 82, 27);
 }
+.like-option{
+    width: 80%;
+    margin-left: 1%;
+    margin-right: 130%;
+    padding-left: 30%;
+    box-shadow: 10px 20px 40px rgba(226, 72, 16, 0.459);
+    border-radius: 20px;
+}
+.network-bg{
+    background-color: rgb(56, 41, 32);border: 10px solid rgb(255, 83, 4);font-size:60px;color:rgb(250, 137, 8);border-radius: 10px;padding: 1px;text-align: center;"
+}
